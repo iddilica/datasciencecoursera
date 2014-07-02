@@ -4,6 +4,7 @@ datasciencecoursera
 Repo for Coursera Data Science Course Projects
 
 ## Introduction to Data Science
+_datasci-002_
 _University of Washington_
 _June 2014_
 
